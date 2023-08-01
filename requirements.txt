@@ -1,0 +1,17 @@
+streamlit
+streamlit-extras
+langchain==0.0.208
+PyPDF2
+faiss-cpu
+python-dotenv
+transformers
+torch
+torchvision 
+torchaudio  # The core 
+faiss-cpu 
+unstructured 
+pytesseract
+pypdf
+pdf2image
+sentence_transformers
+accelerate
